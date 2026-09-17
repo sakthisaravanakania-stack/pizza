@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "name": "Margherita Classic",
+      "category": "Veg",
+      "price": 199,
+      "size": ["Regular", "Medium", "Large"],
+      "crust": ["Classic Hand Tossed", "Cheese Burst"],
+      "description": "Classic delight with 100% real mozzarella cheese and fresh basil.",
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Farmhouse Special",
+      "category": "Veg",
+      "price": 349,
+      "size": ["Regular", "Medium", "Large"],
+      "crust": ["Classic Hand Tossed", "Wheat Thin Crust", "Cheese Burst"],
+      "description": "Delightful combination of onion, capsicum, tomato, and grilled mushroom.",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Paneer Makhani",
+      "category": "Veg",
+      "price": 399,
+      "size": ["Regular", "Medium", "Large"],
+      "crust": ["Classic Hand Tossed", "Cheese Burst"],
+      "description": "Flavorful chunks of spiced paneer, capsicum, and creamy makhani sauce.",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Veggie Paradise",
+      "category": "Veg",
+      "price": 329,
+      "size": ["Regular", "Medium", "Large"],
+      "crust": ["Classic Hand Tossed", "Wheat Thin Crust"],
+      "description": "Loaded with golden corn, black olives, capsicum, and red paprika.",
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Cheese & Corn",
+      "category": "Veg",
+      "price": 249,
+      "size": ["Regular", "Medium", "Large"],
+      "crust": ["Classic Hand Tossed", "Cheese Burst"],
+      "description": "Sweet golden corn paired with an overload of mozzarella cheese.",
+      "rating": 4.3,
+      "image": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Pepper BBQ Chicken",
+      "category": "Non-Veg",
+      "price": 429,
+      "size": ["Regular", "Medium", "Large"],
+      "crust": ["Classic Hand Tossed", "Cheese Burst"],
+      "description": "Pepper barbecue chicken chunks tossed with extra cheese and herbs.",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Chicken Pepperoni",
+      "category": "Non-Veg",
+      "price": 499,
+      "size": ["Regular", "Medium", "Large"],
+      "crust": ["Classic Hand Tossed", "Cheese Burst"],
+      "description": "All-time favorite loaded with sliced chicken pepperoni and herbs.",
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Chicken Tikka Feast",
+      "category": "Non-Veg",
+      "price": 449,
+      "size": ["Regular", "Medium", "Large"],
+      "crust": ["Classic Hand Tossed", "Wheat Thin Crust", "Cheese Burst"],
+      "description": "Tandoori marinated chicken tikka pieces, red onions, and coriander garnish.",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 9,
+      "name": "Fiery Peri-Peri Chicken",
+      "category": "Non-Veg",
+      "price": 459,
+      "size": ["Regular", "Medium", "Large"],
+      "crust": ["Classic Hand Tossed", "Cheese Burst"],
+      "description": "Spicy peri-peri seasoned chicken chunks, jalapeños, and red paprika.",
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 10,
+      "name": "Meat Supreme",
+      "category": "Non-Veg",
+      "price": 549,
+      "size": ["Regular", "Medium", "Large"],
+      "crust": ["Classic Hand Tossed", "Cheese Burst"],
+      "description": "Loaded with barbecue chicken, chicken sausage, peri-peri chunks, and black olives.",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?auto=format&fit=crop&w=600&q=80"
+    }
+  ]
